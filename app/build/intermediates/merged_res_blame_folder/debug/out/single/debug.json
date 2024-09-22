@@ -1,0 +1,942 @@
+[
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\layout-w1240dp_activity_login2.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\layout-w1240dp\\activity_login2.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\layout_dialog_select_diagnostic.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\layout\\dialog_select_diagnostic.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\mipmap-hdpi_icon_pdf_red_background_white.png.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\mipmap-hdpi\\icon_pdf_red_background_white.png"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\layout_bottomsheetlayout_continue_diagnostic.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\layout\\bottomsheetlayout_continue_diagnostic.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\drawable_rounded.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\drawable\\rounded.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\drawable_dialogbkg2.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\drawable\\dialogbkg2.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\navigation_mobile_navigation_data_service_mechanical.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\navigation\\mobile_navigation_data_service_mechanical.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\xml_network_security_config.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\xml\\network_security_config.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\mipmap-xxxhdpi_less_image_shape.png.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\mipmap-xxxhdpi\\less_image_shape.png"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\layout_adapter_row_reported_problem.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\layout\\adapter_row_reported_problem.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\layout_activity_register_problem.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\layout\\activity_register_problem.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\layout_activity_register_service.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\layout\\activity_register_service.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\drawable_mechanic_character_truck_dump_trash_construction_mechanic_character_truck_dump_trash_construction_ve_removebg_preview.png.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\drawable\\mechanic_character_truck_dump_trash_construction_mechanic_character_truck_dump_trash_construction_ve_removebg_preview.png"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\layout_dialog_new_diagnostic.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\layout\\dialog_new_diagnostic.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\drawable_mapa_imagem.png.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\drawable\\mapa_imagem.png"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\drawable_baseline_delete_outline_48.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\drawable\\baseline_delete_outline_48.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\mipmap-hdpi_image_shape.png.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\mipmap-hdpi\\image_shape.png"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\drawable_ic_dashboard_black_24dp.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\drawable\\ic_dashboard_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\drawable_user_login.png.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\drawable\\user_login.png"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\layout_bottomsheetlayout_main_order.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\layout\\bottomsheetlayout_main_order.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\drawable_vector_ek1.png.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\drawable\\vector_ek1.png"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\layout_adapter_edit_row_reported_problem.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\layout\\adapter_edit_row_reported_problem.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\navigation_mobile_navigation_data_service_technician.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\navigation\\mobile_navigation_data_service_technician.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\layout_adapter_auto_part_select_shimmer.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\layout\\adapter_auto_part_select_shimmer.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\drawable_btn_modal_checklist.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\drawable\\btn_modal_checklist.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\drawable_rectangle_login_input_password.png.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\drawable\\rectangle_login_input_password.png"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\layout_fragment_open_service_vehicle.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\layout\\fragment_open_service_vehicle.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\layout_activity.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\layout\\activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\drawable_rectangle_4_shape.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\drawable\\rectangle_4_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\layout-w936dp_activity_login2.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\layout-w936dp\\activity_login2.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\layout_bottomsheetlayout_add.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\layout\\bottomsheetlayout_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\drawable_logo.png.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\navigation_mobile_navigation_open_new_service.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\navigation\\mobile_navigation_open_new_service.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\layout_login_page.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\layout\\login_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\mipmap-mdpi_icon_pdf_red_background_white.png.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\mipmap-mdpi\\icon_pdf_red_background_white.png"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\layout_fragment_information.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\layout\\fragment_information.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\layout_adapter_change_employee_row.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\layout\\adapter_change_employee_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\layout_card_view_work_order_procedure_technician_shimmer.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\layout\\card_view_work_order_procedure_technician_shimmer.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\layout_side_sheet_menu_work_order_procedure_technician.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\layout\\side_sheet_menu_work_order_procedure_technician.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\layout_adapter_card_view_possible_problem.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\layout\\adapter_card_view_possible_problem.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\layout_fragment_work_order.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\layout\\fragment_work_order.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\layout_adapter_card_view_possible_problem_shimmer.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\layout\\adapter_card_view_possible_problem_shimmer.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\font_roboto_bold.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\font\\roboto_bold.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\mipmap-mdpi_icon_pdf_background_white.png.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\mipmap-mdpi\\icon_pdf_background_white.png"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\layout_card_view_procedure_work_order_procedure_technician.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\layout\\card_view_procedure_work_order_procedure_technician.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\menu_menu_change_employee.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\menu\\menu_change_employee.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\mipmap-hdpi_add_image_shape.png.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\mipmap-hdpi\\add_image_shape.png"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\layout_activity_open_new_service.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\layout\\activity_open_new_service.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\layout_side_sheet_filter_add_service.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\layout\\side_sheet_filter_add_service.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\layout_dialog_checklist_enter_truck.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\layout\\dialog_checklist_enter_truck.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\drawable_baseline_filter_list_24.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\drawable\\baseline_filter_list_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\drawable_icon_menu.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\drawable\\icon_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\layout_dialog_progress.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\layout\\dialog_progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\mipmap-xhdpi_less_image_shape.png.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\mipmap-xhdpi\\less_image_shape.png"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\layout_header.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\layout\\header.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\layout_row_auto_part_receipt_shimmer.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\layout\\row_auto_part_receipt_shimmer.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\mipmap-xxxhdpi_image_shape.png.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\mipmap-xxxhdpi\\image_shape.png"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\drawable_ic_home_black_24dp.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\drawable\\ic_home_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\drawable_mapa_image.png.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\drawable\\mapa_image.png"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\layout_expasion_layout.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\layout\\expasion_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\drawable_ic_round_remove_24.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\drawable\\ic_round_remove_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\menu_bottom_nav_data_service_technician.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\menu\\bottom_nav_data_service_technician.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\drawable_baseline_checklist_rtl_24.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\drawable\\baseline_checklist_rtl_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\layout_dialog_error.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\layout\\dialog_error.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\layout_fragment_open_service_client.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\layout\\fragment_open_service_client.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\drawable_logo_sofh.png.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\drawable\\logo_sofh.png"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\drawable_image_mapa.png.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\drawable\\image_mapa.png"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\layout_activity_new_service_problem.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\layout\\activity_new_service_problem.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\drawable_button_login.png.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\drawable\\button_login.png"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\layout_main_techinician.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\layout\\main_techinician.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\drawable_truck_vector.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\drawable\\truck_vector.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\layout_bottomsheetlayout_new_service.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\layout\\bottomsheetlayout_new_service.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\layout_activity_checklist_truck_enter.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\layout\\activity_checklist_truck_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\mipmap-xxhdpi_logo_sofh.png.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\mipmap-xxhdpi\\logo_sofh.png"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\layout_dialog_add_step_diagnostic.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\layout\\dialog_add_step_diagnostic.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\drawable_ic_add_black_24dp.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\drawable\\ic_add_black_24dp.xml"
+    },
+    {
+        "merged": "com.example.mechanic.app-merged_res-4:/layout_fragment_home.xml.flat",
+        "source": "com.example.mechanic.app-main-6:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\menu_bottom_nav_menu.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\menu\\bottom_nav_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\mipmap-xxxhdpi_add_image_shape.png.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\mipmap-xxxhdpi\\add_image_shape.png"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\drawable_ic_settings_black_24dp.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\drawable\\ic_settings_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\layout_fragment_information_technician.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\layout\\fragment_information_technician.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\navigation_mobile_navigation.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\navigation\\mobile_navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\layout_activity_cadastre_home.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\layout\\activity_cadastre_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\layout_row_question_shimmer.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\layout\\row_question_shimmer.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\layout_row_information_shimmer3.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\layout\\row_information_shimmer3.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\layout_fragment_questions.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\layout\\fragment_questions.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\layout_card_view_procedure_mechanical.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\layout\\card_view_procedure_mechanical.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\drawable_baseline_account_circle_24.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\drawable\\baseline_account_circle_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\drawable_baseline_question_mark_24.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\drawable\\baseline_question_mark_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\layout_activity_data_service.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\layout\\activity_data_service.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\drawable_logo_small_main_bottom.png.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\drawable\\logo_small_main_bottom.png"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\layout_activity_data_service_technician.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\layout\\activity_data_service_technician.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\layout_activity_new_problem.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\layout\\activity_new_problem.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\drawable_baseline_settings_applications_24.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\drawable\\baseline_settings_applications_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\drawable_ic_baseline_clear.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\drawable\\ic_baseline_clear.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\drawable_baseline_person_add_24.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\drawable\\baseline_person_add_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\layout_row_information_shimmer4.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\layout\\row_information_shimmer4.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\drawable__bg__login_page_ek2_shape.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\drawable\\_bg__login_page_ek2_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\layout_row_auto_part_receipt.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\layout\\row_auto_part_receipt.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\layout_teste_placeholder.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\layout\\teste_placeholder.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\layout_row_question.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\layout\\row_question.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\drawable_baseline_person_24.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\drawable\\baseline_person_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\layout_adapter_step_order.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\layout\\adapter_step_order.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\layout_activity_data_service_work_order_procedure_technician.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\layout\\activity_data_service_work_order_procedure_technician.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\layout_row_auto_part.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\layout\\row_auto_part.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\drawable_baseline_horizontal_rule_24.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\drawable\\baseline_horizontal_rule_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\mipmap-mdpi_icon_pdf_white_red.png.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\mipmap-mdpi\\icon_pdf_white_red.png"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\mipmap-xxhdpi_image_shape.png.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\mipmap-xxhdpi\\image_shape.png"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\layout_dialog_confirm_save_auto_parts.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\layout\\dialog_confirm_save_auto_parts.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\mipmap-hdpi_icon_pdf_line.png.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\mipmap-hdpi\\icon_pdf_line.png"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\drawable_ic_notifications_black_24dp.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\drawable\\ic_notifications_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\mipmap-mdpi_image_shape.png.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\mipmap-mdpi\\image_shape.png"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\drawable_rectangle_bottomsheet_main.png.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\drawable\\rectangle_bottomsheet_main.png"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\layout_activity_register_client.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\layout\\activity_register_client.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\drawable_rectangle_2.png.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\drawable\\rectangle_2.png"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\mipmap-xhdpi_icon_pdf_line.png.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\mipmap-xhdpi\\icon_pdf_line.png"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\drawable_baseline_info_24.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\drawable\\baseline_info_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\mipmap-hdpi_icon_pdf_white_red.png.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\mipmap-hdpi\\icon_pdf_white_red.png"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\mipmap-hdpi_logo_sofh.png.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\mipmap-hdpi\\logo_sofh.png"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\drawable_baseline_delete_outline_24.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\drawable\\baseline_delete_outline_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\mipmap-xxhdpi_add_image_shape.png.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\mipmap-xxhdpi\\add_image_shape.png"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\menu_bottom_nav_open_new_service.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\menu\\bottom_nav_open_new_service.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\layout-w1240dp_activity_login.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\layout-w1240dp\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\mipmap-mdpi_add_image_shape.png.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\mipmap-mdpi\\add_image_shape.png"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\drawable_baseline_person_240.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\drawable\\baseline_person_240.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\layout_dialog_register_work_order.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\layout\\dialog_register_work_order.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\layout_fragment_dashboard.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\layout\\fragment_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\drawable_profile_ek1.png.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\drawable\\profile_ek1.png"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\layout_adapter_card_view_work_order.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\layout\\adapter_card_view_work_order.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\layout_fragment_notifications.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\layout\\fragment_notifications.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\font_roboto_bold_italic.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\font\\roboto_bold_italic.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\drawable_rectangle_3.png.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\drawable\\rectangle_3.png"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\layout_dialog_register_auto_part.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\layout\\dialog_register_auto_part.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\mipmap-xxhdpi_icon_pdf_background_white.png.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\mipmap-xxhdpi\\icon_pdf_background_white.png"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\drawable_mechanic_character_truck_dump_trash_construction_mechanic_character_truck_dump_trash_construction_ve.png.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\drawable\\mechanic_character_truck_dump_trash_construction_mechanic_character_truck_dump_trash_construction_ve.png"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\mipmap-xxxhdpi_icon_pdf_background_white.png.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\mipmap-xxxhdpi\\icon_pdf_background_white.png"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\drawable_header.png.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\drawable\\header.png"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\mipmap-xxxhdpi_logo_sofh.png.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\mipmap-xxxhdpi\\logo_sofh.png"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\mipmap-xhdpi_icon_pdf_red_background_white.png.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\mipmap-xhdpi\\icon_pdf_red_background_white.png"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\layout_dialog_add_service.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\layout\\dialog_add_service.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\layout_adapter_fase_diagnostic_expasion.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\layout\\adapter_fase_diagnostic_expasion.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\drawable_rectangle_login_input_email.png.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\drawable\\rectangle_login_input_email.png"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\layout_fragment_information_work_order_procedure_technician.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\layout\\fragment_information_work_order_procedure_technician.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\drawable_backgroud_modal_checklist_enter_truck.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\drawable\\backgroud_modal_checklist_enter_truck.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\mipmap-xhdpi_logo_sofh.png.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\mipmap-xhdpi\\logo_sofh.png"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\layout_bottomsheetlayout_question_problem.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\layout\\bottomsheetlayout_question_problem.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\drawable_ic_john_deere_logo.png.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\drawable\\ic_john_deere_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\layout_dialog_change_employee.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\layout\\dialog_change_employee.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\mipmap-xxhdpi_less_image_shape.png.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\mipmap-xxhdpi\\less_image_shape.png"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\menu_lateral_menu.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\menu\\lateral_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\mipmap-xxhdpi_icon_pdf_red_background_white.png.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\mipmap-xxhdpi\\icon_pdf_red_background_white.png"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\drawable_baseline_reorder_24.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\drawable\\baseline_reorder_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\layout_nav_header.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\layout\\nav_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\layout-w936dp_activity_login.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\layout-w936dp\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\font_roboto.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\font\\roboto.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\layout_dialog_add_auto_part.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\layout\\dialog_add_auto_part.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\layout_dialog_add_problem.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\layout\\dialog_add_problem.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\xml_file_paths.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\xml\\file_paths.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\mipmap-xxxhdpi_icon_pdf_white_red.png.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\mipmap-xxxhdpi\\icon_pdf_white_red.png"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\drawable_rectangle_login_input.png.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\drawable\\rectangle_login_input.png"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\layout_row_checklist_shimmer.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\layout\\row_checklist_shimmer.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\anim_slide_in.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\anim\\slide_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\layout_adapter_card_view_work_order_shimmer.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\layout\\adapter_card_view_work_order_shimmer.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\layout_teste_button.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\layout\\teste_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\layout_activity_register_vehicle.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\layout\\activity_register_vehicle.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\anim_slide_out.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\anim\\slide_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\mipmap-hdpi_less_image_shape.png.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\mipmap-hdpi\\less_image_shape.png"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\drawable_baseline_article_24.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\drawable\\baseline_article_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\mipmap-xxhdpi_icon_pdf_white_red.png.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\mipmap-xxhdpi\\icon_pdf_white_red.png"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\mipmap-xxhdpi_icon_pdf_line.png.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\mipmap-xxhdpi\\icon_pdf_line.png"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\layout_dialog_confirm_salve_revision.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\layout\\dialog_confirm_salve_revision.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\menu_botttom_nav_data_service_work_order_procedure_technician.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\menu\\botttom_nav_data_service_work_order_procedure_technician.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\layout_side_sheet_filter_home.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\layout\\side_sheet_filter_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\navigation_mobile_navigation_data_service_work_order_procedure_technician.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\navigation\\mobile_navigation_data_service_work_order_procedure_technician.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\layout_row_information_shimmer2.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\layout\\row_information_shimmer2.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\drawable_logo_coleta.png.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\drawable\\logo_coleta.png"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\layout_card_view_procedure_technician_shimmer.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\layout\\card_view_procedure_technician_shimmer.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\drawable_baseline_post_add_24.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\drawable\\baseline_post_add_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\mipmap-xxxhdpi_icon_pdf_line.png.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\mipmap-xxxhdpi\\icon_pdf_line.png"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\menu_bottom_nav_data_service_mechanical.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\menu\\bottom_nav_data_service_mechanical.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\mipmap-xhdpi_icon_pdf_background_white.png.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\mipmap-xhdpi\\icon_pdf_background_white.png"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\mipmap-mdpi_logo_sofh.png.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\mipmap-mdpi\\logo_sofh.png"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\layout_dialog_diagnoss.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\layout\\dialog_diagnoss.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\drawable_card_view_example.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\drawable\\card_view_example.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\layout_adapter_table_row_registered_clients.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\layout\\adapter_table_row_registered_clients.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\drawable_vector.png.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\drawable\\vector.png"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\mipmap-hdpi_icon_pdf_background_white.png.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\mipmap-hdpi\\icon_pdf_background_white.png"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\menu_menu_work_order_procedure_technician.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\menu\\menu_work_order_procedure_technician.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\layout_fragment_work_order_technician.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\layout\\fragment_work_order_technician.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\layout_activity_dia.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\layout\\activity_dia.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\layout_fragment_checklist.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\layout\\fragment_checklist.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\mipmap-xhdpi_image_shape.png.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\mipmap-xhdpi\\image_shape.png"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\layout_dialog_info_auto_part.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\layout\\dialog_info_auto_part.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\layout_activity_new_service.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\layout\\activity_new_service.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\layout_activity_login2.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\layout\\activity_login2.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\mipmap-xxxhdpi_icon_pdf_red_background_white.png.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\mipmap-xxxhdpi\\icon_pdf_red_background_white.png"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\layout_activity_open_new_service_new.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\layout\\activity_open_new_service_new.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\layout_fragment_work_order_procedures.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\layout\\fragment_work_order_procedures.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\layout_adapter_table_row_registered_vehicles.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\layout\\adapter_table_row_registered_vehicles.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\drawable_baseline_check_circle_24.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\drawable\\baseline_check_circle_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\mipmap-xhdpi_icon_pdf_white_red.png.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\mipmap-xhdpi\\icon_pdf_white_red.png"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\layout_adapter_auto_part_select.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\layout\\adapter_auto_part_select.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\layout_adapter_diagnostic_step.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\layout\\adapter_diagnostic_step.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\drawable_baseline_cancel_24.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\drawable\\baseline_cancel_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\layout_main_mechanical.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\layout\\main_mechanical.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\layout_dialog_register_possible_problem.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\layout\\dialog_register_possible_problem.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\layout_card_view_procedure_technician.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\layout\\card_view_procedure_technician.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\mipmap-xhdpi_add_image_shape.png.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\mipmap-xhdpi\\add_image_shape.png"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\drawable_ic_expansion_header_indicator_grey_24dp.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\drawable\\ic_expansion_header_indicator_grey_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\drawable_truck_logistic_vector_graphics_5315622_1_removebg_preview.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\drawable\\truck_logistic_vector_graphics_5315622_1_removebg_preview.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\drawable_dialogbkg.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\drawable\\dialogbkg.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\layout_list_item.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\layout\\list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\layout_row_information_shimmer1.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\layout\\row_information_shimmer1.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\mipmap-mdpi_less_image_shape.png.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\mipmap-mdpi\\less_image_shape.png"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\mipmap-mdpi_icon_pdf_line.png.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\mipmap-mdpi\\icon_pdf_line.png"
+    },
+    {
+        "merged": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-merged_res-4:\\menu_menu_share_pdf.xml.flat",
+        "source": "C:\\Users\\SuportSofh\\.gradle\\daemon\\8.0\\com.example.mechanic.app-main-6:\\menu\\menu_share_pdf.xml"
+    }
+]

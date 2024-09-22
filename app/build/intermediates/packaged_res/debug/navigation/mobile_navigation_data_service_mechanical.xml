@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation_data_service"
+    app:startDestination="@id/navigation_info">
+
+    <fragment
+        android:id="@+id/navigation_info"
+        android:name="com.example.mechanic.ui.services.InformationFragmentMechanical"
+        android:label="Informações"
+        tools:layout="@layout/fragment_information" />
+
+    <fragment
+        android:id="@+id/navigation_questions"
+        android:name="com.example.mechanic.ui.services.QuestionsFragment"
+        android:label="Revisão"
+        tools:layout="@layout/fragment_questions" />
+
+    <fragment
+        android:id="@+id/navigation_settings"
+        android:name="com.example.mechanic.ui.services.WorkOrderFragment"
+        android:label="Ordens de Serviço"
+        tools:layout="@layout/fragment_work_order" />
+
+    <fragment
+        android:id="@+id/navigation_checklist"
+        android:name="com.example.mechanic.ui.services.ChecklistFragment"
+        android:label="Cheklist do Serviço"
+        tools:layout="@layout/fragment_checklist"/>
+</navigation>
