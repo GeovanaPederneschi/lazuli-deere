@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation_data_service"
+    app:startDestination="@id/navigation_info">
+
+    <fragment
+        android:id="@+id/navigation_info"
+        android:name="com.example.mechanic.ui.services.InformationFragmentTechnician"
+        android:label="Informações"
+        tools:layout="@layout/fragment_information_technician" />
+
+    <fragment
+        android:id="@+id/navigation_settings"
+        android:name="com.example.mechanic.ui.services.WorkOrderFragmentTechnician"
+        android:label="Ordens de Serviço"
+        tools:layout="@layout/fragment_work_order" />
+
+    <fragment
+        android:id="@+id/navigation_vehicle"
+        android:label="Veículo"/>
+</navigation>

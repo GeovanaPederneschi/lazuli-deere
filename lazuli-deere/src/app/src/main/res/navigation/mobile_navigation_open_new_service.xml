@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation_open_new_service"
+    app:startDestination="@id/navigation_vehicle">
+
+    <fragment
+        android:id="@+id/navigation_vehicle"
+        android:name="com.example.mechanic.ui.register.preprotocol.OpenServiceVehicleFragment"
+        android:label="Veículo"
+        tools:layout="@layout/fragment_open_service_vehicle" />
+
+    <fragment
+        android:id="@+id/navigation_person"
+        android:name="com.example.mechanic.ui.register.preprotocol.OpenServiceClientFragment"
+        android:label="Cliente"
+        tools:layout="@layout/fragment_open_service_client" />
+
+</navigation>
