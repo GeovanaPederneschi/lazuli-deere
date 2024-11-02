@@ -48,15 +48,29 @@ O projeto entregou uma aplicação funcional que realiza a localização dos car
 
 1. **Localização em Tempo Real**: A interface mobile exibe a posição dos carrinhos em um mapa, com atualizações em tempo real.
 
-   ![Print da Localização](link_para_print_1.png)
+   <img src="assets/localizacao.jpeg" alt="Print da Localização" width="360" height="633">
 
 2. **Gerenciamento de Rotas**: A aplicação permite que o operador visualize as rotas de coleta e entrega diretamente pela interface, simplificando o processo logístico.
 
-   ![Print do Painel de Rotas](link_para_print_2.png)
+   <img src="assets/historico.png" alt="Print do Painel de Rotas" width="360" height="633">
 
-3. **Precisão de Localização**: Testes realizados indicaram que o sistema conseguiu atingir a precisão esperada, com um erro máximo de X metros.
+   Tela do Operador:
 
-   ![Print dos Resultados de Precisão](link_para_print_3.png)
+   <img src="assets/rota.jpeg" alt="Rota" width="360" height="633">
+
+   Tela do Gerente:
+
+   <img src="assets/criar_demanda.jpeg" alt="Criar demanda de entrega" width="360" height="633">
+
+   Outras:
+
+   <img src="assets/notificacao.jpeg" alt="Notificações" width="360" height="633">
+
+
+   <img src="assets/menu.jpeg" alt="Menu" width="360" height="633">
+
+   <img src="assets/configuracao.jpeg" alt="Configuração" width="360" height="633">
+
 
 Esses resultados mostram que a solução IoT foi bem-sucedida em atender aos objetivos do projeto, otimizando o processo de gerenciamento dos carrinhos na plataforma industrial da John Deere.
 
@@ -101,7 +115,7 @@ Os resultados mostram uma variação de precisão média de 0.7 metros, indicand
 ### Teste de Tempo de Resposta
 
 #### Definição da Ferramenta de Teste
-Esse teste mede o tempo entre a coleta inicial do sinal WiFi pelo ESP32 e o recebimento dos dados no servidor. Utiliza-se uma função de temporização (ex.: `millis()`) para marcar o tempo de início e término da operação. Assim como está no arquivo de configuração () o esp faz o escaneamento das redes wifis, e manda os dados do RSSi para a api que por sua vez faz o calculo e manda para o banco para que o aplicativo possa consumir. A resposta do esp desde o escaneamento até a resposta do servidor com o status de inserção no banco demora menos de 0,30 segundos como vemos nas imagens no banco onde podemos comparar o horário da inserção dos regitros.
+Esse teste mede o tempo entre a coleta inicial do sinal WiFi pelo ESP32 e o recebimento dos dados no servidor. Utiliza-se uma função de temporização (ex.: `millis()`) para marcar o tempo de início e término da operação. Assim como está no arquivo de configuração [Arduino](https://github.com/GeovanaPederneschi/lazuli-deere/blob/main/src/esp/WifisEspec/WifisEspec.ino) o esp faz o escaneamento das redes wifis, e manda os dados do RSSi para a api que por sua vez faz o calculo e manda para o banco para que o aplicativo possa consumir. A resposta do esp desde o escaneamento até a resposta do servidor com o status de inserção no banco demora menos de 0,30 segundos como vemos nas imagens no banco onde podemos comparar o horário da inserção dos regitros.
 
 #### Evidências de Testes
 
